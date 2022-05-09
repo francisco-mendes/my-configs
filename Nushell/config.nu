@@ -55,7 +55,7 @@ let default_theme = {
     shape_nothing: light_cyan
 }
 
-let $config = {
+let-env config = {
     filesize_metric: false
     table_mode: rounded # basic, compact, compact_double, light, thin, with_love, rounded, reinforced, heavy, none, other
     use_ls_colors: true
