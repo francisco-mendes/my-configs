@@ -1,3 +1,7 @@
-history.txt
-local
+history.*
+local/
+
 .DS_Store
+.idea/
+
+state.json
